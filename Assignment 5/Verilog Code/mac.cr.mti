@@ -1,0 +1,29 @@
+C:/Modeltech_pe_edu_10.4a/examples/matrix_mult.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/matrix_mult.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module matrix_mult
+
+Top level modules:
+	matrix_mult
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/matrx_mult_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/matrx_mult_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module matrix_mult_tb
+
+Top level modules:
+	matrix_mult_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mac_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mac_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mac_tb
+
+Top level modules:
+	mac_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mac.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mac.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mac
+
+Top level modules:
+	mac
+
+} {} {}}

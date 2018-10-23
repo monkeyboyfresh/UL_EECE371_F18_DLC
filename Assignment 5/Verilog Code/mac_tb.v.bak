@@ -1,0 +1,19 @@
+module mac_tb;
+
+reg [7:0] a,b;
+reg [15:0] acc;
+wire [15:0] temp,z;
+mac u0(a,b,temp,acc,z);
+
+
+initial
+begin
+
+a = 8'd5;
+b = 8'd15;
+acc = 8'd0;
+
+end
+
+
+endmodule
